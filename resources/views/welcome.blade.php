@@ -5,8 +5,10 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <title>doginals.market</title>
+
+        @vite('resources/css/app.css')
     </head>
     <body>
-        <h1>doginals.market</h1>
+        <h1 class="text-3xl font-bold p-6">doginals.market</h1>
     </body>
 </html>
